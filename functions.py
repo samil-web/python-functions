@@ -30,3 +30,7 @@ funtion(arg1,arg2) ------- Here arg1,arg2 can be defined or not. This part is in
 means that you can update it consistently
 """
 # Some most used functions in python 
+# 1.String functions
+# 2.Logical functions
+# 3.Arithmetic functions
+# 4.Sequnce(List,set,tuple,dictionary) functions
